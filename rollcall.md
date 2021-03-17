@@ -6,5 +6,5 @@ Rollcall
 Name, Year, Major
 -------------------------------------------------
 * Howard Francis, Faculty, Math/Computer Science
-
+* Stephen Osborn, Senior, Computer Science
 
