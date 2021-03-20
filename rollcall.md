@@ -11,4 +11,6 @@ Name, Year, Major
 
 * Stephen Osborn, Senior, Computer Science
 
+* Raymond Terry, Senior, Computer Science
+
 
