@@ -13,4 +13,6 @@ Name, Year, Major
 
 * Raymond Terry, Senior, Computer Science
 
+* Zaria Hollier, Senior, Computer Science
+
 
