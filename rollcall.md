@@ -10,6 +10,7 @@ Name, Year, Major
 * Aaron Aven, Senior, Computer Science
 
 * Stephen Osborn, Senior, Computer Science
+* Jeremy Stacy, Senior, Computer Science
 
 * Raymond Terry, Senior, Computer Science
 
